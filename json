@@ -1,69 +1,20 @@
 {
-  "Fruits": [
+  "Actori romani": [
     {
-      "name": "Aguaje",
-      "description": "Salak, fructul șarpelui, șalak, La Kham, aguaje așa cum mai este denumit, este nativ în Indonezia, Malaezia și Brunei. Salak este o specie de palmier, a căror fructe cresc în grupuri, la baza lui.",
+      "name": "Stela Popescu",
+      "description": "Stela Popescu (n. 21 decembrie 1935, s. Slobozia-Hodorogea, Orhei, Basarabia) este o actriță română de teatru, film și televiziune. A realizat cupluri celebre alături de Ștefan Bănică și Alexandru Arșinel.",
       "image": "http://www.clicksanatate.ro/uploads//files/2016/03/21/56f01b2640025/2.jpg"
     },
     {
-      "name": "Ananas",
-      "description": "Ananasul este o plantă tropicală originară din America, tolerantă la secetă, care creşte până la 5-8 metri în înălţime. Planta produce mai multe fructe lungi, ovale în fiecare sezon, din martie până în iunie.",
-      "image": "http://storage0.dms.mpinteractiv.ro/media/401/721/27230/12033463/1/ananas-beneficii.jpg?width=290"
+      "name": "Alexandru Arsinel",
+      "description": "Alexandru Arșinel (n. 4 iunie 1939, Dolhasca, Baia, azi Suceava) este un actor român de comedie, care a contribuit la teatrul de revistă, televiziune și film. Este director al Teatrului de revistă „Constantin Tănase” din București.",
+      "image": "http://static3.evz.ro/image-original-605-388/cache/2015-07/arsinel-465x390.jpg"
     },
     {
-      "name": "Avocado",
-      "description": "Avocado este un arbore originar din Mexic și Guatemala (America Centrală), clasificat cu floarea din familia Lauracee împreună cu camforul, scorțișoara și dafinul. Atât fructul cât și arborele sunt comestible iar Avocado se referă și la fructul acestui copac. Din fruct se face renumita pastă GUACAMOLE.",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuD1XaOTDfX5pN1W2dsNpS9sF3MzEgi2phEalOmih0ti8P46e0"
-    },
-    {
-      "name": "Banane",
-      "description": "Bananele, supranumite şi „fructele fericirii” deoarece conţin o substanţă numită triptofan, care stimulează secreţia de serotonină - hormonul fericirii-, sunt printre cele mai gustoase alimente naturale, dar ştiai şi cât de bune sunt acestea pentru sănătatea ta?",
-      "image": "http://storage0.dms.mpinteractiv.ro/media/401/721/27207/14961552/1/banane.jpg?width=290"
-    },
-    {
-      "name": "Guava",
-      "description": "Printre beneficiile pe care le ofera acest fruct al sanatatii se numara tratarea diareei, dizenteriei, constipatiei, tusei, racelii, problemelor pielii, tensiunii, scaderea greutatii si scorbut.",
-      "image": "http://vignette1.wikia.nocookie.net/stargate/images/9/9e/Guava.PNG/revision/latest?cb=20150309121052"
-    },
-    {
-      "name": "Jackfruit",
-      "description": "The jackfruit (Artocarpus heterophyllus), also known as jack tree, jakfruit, or sometimes simply jack or jak,[7] is a species of tree in the fig, mulberry and breadfruit family (Moraceae).",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jackfruit_hanging.JPG/220px-Jackfruit_hanging.JPG"
-    },
-    {
-      "name": "Kaki",
-      "description": "Copacii in care cresc poarta numele Diospyros, care vine din greaca antica semnificand “fructul divin” sau “hrana lui Zeus”. Cele doua specii de persimona comestibila provin fie din Asia, fie din America de Nord. Fructele din Asia de la Diospyros kaki sunt originare din Japonia si China. Au marimea unei piersici medii, o culoare care variaza de la galben la portocaliu inchis, coaja tare si lucioasa si o pulpa dulce, putand fi consumat ca atare, uscat, pregatit la cuptor sau sub forma de gem.",
-      "image": "http://www.sursazilei.ro/wp-content/uploads/2013/06/kaki-curmalul-japonez.jpg"
-    },
-    {
-      "name": "Kiwi",
-      "description": "Kiwi este fructul comestibil al plantelor Actinidia chinensis și Actinidia deliciosa din Asia. Denumirea chinezească este Yang Tao (mura sau strugurele gâștei). Cunoscut original sub denumirea de „agrișe chinezești”",
-      "image": "http://img.lasrecetascocina.com/wp-content/uploads/2009/01/40709822kiwi-main_full-300x300.jpg"
-    },
-    {
-      "name": "Papaya",
-      "description": "Papaya a devenit cunoscut la scară mondială în momentul în care a fost prezentat drept unul din principalele fructe recomandate pentru menţinerea frumuseţii şi tinereţii, publicitatea acestui aliment având grup-ţintă femeile de vârsta a doua.Citeste mai mult: adev.ro/mx7oau",
-      "image": "http://www.catalyticgenerators.com/wp-content/uploads/2015/10/papayas-210x201.jpg"
-    },
-    {
-      "name": "Fructul pasiunii",
-      "description": "Fructul pasiunii este un fruct specific sezonului rece. Denumit si Passiflora edulis sau Maracuia in America de Sud, este originar din Brazilia.",
-      "image": "http://www.yuksek.ro/images/big/passionfruit.gif"
-    },
-    {
-      "name": "Rambutan",
-      "description": "Acest fruct exotic este foarte bogat in vitamina C, continutul este zemos iar gustul este unul dulce-acrisor. De asemenea, este foarte slab caloric – are doar 82 kcal/100g. Fructele de rambutan au nevoie de 90 de zile pentru a se coace. In anumite perioade din an, atunci cind conditiile meteo sunt extrem de favorabile, fructele se coc in numai cinci zile. Inainte de a fi culese, acestea au in jur de 5-6 centimetri. ",
-      "image": "https://www.discovered.nl/portals/18/images/producten/fruit/rambutan_vrij.png"
-    },
-    {
-      "name": "Rodia",
-      "description": "Rodia (Punica granatum) este un arbore mic sau arbust foios de înălțime până la 5–8 m. În fapt, termenul de rodie reprezintă fructul, iar planta se numește rodiu sau rodier.",
-      "image": "http://storage0.dms.mpinteractiv.ro/media/401/721/27230/2779950/2/w-rodia.jpg?width=290"
-    },
-    {
-      "name": "Tamarilo",
-      "description": "Tamarillo, is a small tree or shrub in the flowering plant family Solanaceae (the nightshade family). It is best known as the species that bears the tamarillo, an egg-shaped edible fruit.[2] It is also known as the tree tomato,[3] tamamoro, and tomate de árbol in South America",
-      "image": "http://www.gourmetsleuth.com/images/food/tamarillo-jpg.jpg?sfvrsn=2"
+      "name": "Gheorghe Dinica",
+      "description": "Gheorghe Dinică (n. 25 decembrie 1933, Giulești[1][2], dar 1 ianuarie 1934 - în acte oficiale [3], București - d. 10 noiembrie 2009, București) a fost unul dintre cei mai importanți actori români. A jucat în peste 70 de filme, în special în rolurile unor personaje negative, motiv pentru care Horațiu Mălăiele l-a supranumit:cel mai mare «rău» al cinematografiei românești.",
+      "image": "http://www.ziuaconstanta.ro/images/stories/2015/11/10/stiati_ca.jpg"
     }
+    
   ]
 }
